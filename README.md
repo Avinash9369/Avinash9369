@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Avinash9369
-- 👀 I’m interested in web developement
+- 👋 Hi, I’m Avinash Rai
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN Full Stack
 - 📫 How to reach me - avinashrairai540@gmail.com
 <!---
